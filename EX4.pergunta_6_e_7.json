@@ -1,0 +1,1400 @@
+[{
+  "_id": {
+    "$oid": "6660462ca4b82db464679d33"
+  },
+  "pergunta6": "youtube e chat gpt",
+  "createdAt": {
+    "$date": "2024-06-05T10:59:46.445Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66604634a4b82db464679d35"
+  },
+  "pergunta7": "yes",
+  "createdAt": {
+    "$date": "2024-06-05T10:59:46.445Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666046bfa4b82db464679d43"
+  },
+  "pergunta6": "sim, sites",
+  "createdAt": {
+    "$date": "2024-06-05T10:59:46.445Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666046c5a4b82db464679d45"
+  },
+  "pergunta7": "sim",
+  "createdAt": {
+    "$date": "2024-06-05T10:59:46.445Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6660476da4b82db464679d53"
+  },
+  "pergunta6": "chat gpt e google academico ",
+  "createdAt": {
+    "$date": "2024-06-05T10:59:46.445Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6660476da4b82db464679d55"
+  },
+  "pergunta6": "chat gpt e google academico ",
+  "createdAt": {
+    "$date": "2024-06-05T10:59:46.445Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66604783a4b82db464679d57"
+  },
+  "pergunta7": "sim",
+  "createdAt": {
+    "$date": "2024-06-05T10:59:46.445Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6660485ba4b82db464679d65"
+  },
+  "pergunta6": "sim, youtube e sites de escola",
+  "createdAt": {
+    "$date": "2024-06-05T10:59:46.445Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66604860a4b82db464679d67"
+  },
+  "pergunta7": "sim",
+  "createdAt": {
+    "$date": "2024-06-05T10:59:46.445Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666048d1a4b82db464679d75"
+  },
+  "pergunta6": "Youtube, Chatgpt",
+  "createdAt": {
+    "$date": "2024-06-05T10:59:46.445Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666048e6a4b82db464679d77"
+  },
+  "pergunta7": "Sim, para fazer exercicios",
+  "createdAt": {
+    "$date": "2024-06-05T10:59:46.445Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66604977a4b82db464679d85"
+  },
+  "pergunta6": "videos\n",
+  "createdAt": {
+    "$date": "2024-06-05T10:59:46.445Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6660498ca4b82db464679d87"
+  },
+  "pergunta7": "com certerza, para resolver calculos",
+  "createdAt": {
+    "$date": "2024-06-05T10:59:46.445Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66604a7fa4b82db464679d95"
+  },
+  "pergunta6": "youtube e google ",
+  "createdAt": {
+    "$date": "2024-06-05T10:59:46.445Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66604a86a4b82db464679d97"
+  },
+  "pergunta7": "sim",
+  "createdAt": {
+    "$date": "2024-06-05T10:59:46.445Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66604b55a4b82db464679da5"
+  },
+  "pergunta6": "sim, videos no youtube ",
+  "createdAt": {
+    "$date": "2024-06-05T10:59:46.445Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66604b5ca4b82db464679da7"
+  },
+  "pergunta7": "sim, com certeza",
+  "createdAt": {
+    "$date": "2024-06-05T10:59:46.445Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66604bf2a4b82db464679db7"
+  },
+  "pergunta6": "sim, vídeos, pesquisas e atividades",
+  "createdAt": {
+    "$date": "2024-06-05T10:59:46.445Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66604bfca4b82db464679db9"
+  },
+  "pergunta7": "sim",
+  "createdAt": {
+    "$date": "2024-06-05T10:59:46.445Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66604cc1a4b82db464679dc7"
+  },
+  "pergunta6": "Sim, estudo com vídeos, pesquisas e entre outro",
+  "createdAt": {
+    "$date": "2024-06-05T10:59:46.445Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66604cc9a4b82db464679dc9"
+  },
+  "pergunta7": "Sim ",
+  "createdAt": {
+    "$date": "2024-06-05T10:59:46.445Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66604d54a4b82db464679dd7"
+  },
+  "pergunta6": "Utilizo mais videos,porém uso sites e pesquisas as vezes.",
+  "createdAt": {
+    "$date": "2024-06-05T10:59:46.445Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66604d5aa4b82db464679dd9"
+  },
+  "pergunta7": "sim.",
+  "createdAt": {
+    "$date": "2024-06-05T10:59:46.445Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66604e3aa4b82db464679de7"
+  },
+  "pergunta6": "Apenas vídeos.",
+  "createdAt": {
+    "$date": "2024-06-05T10:59:46.445Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66604e45a4b82db464679de9"
+  },
+  "pergunta7": "Com certeza.",
+  "createdAt": {
+    "$date": "2024-06-05T10:59:46.445Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66604f93a4b82db464679df7"
+  },
+  "pergunta6": "geralmente os sites usados pra fazer pesquisa são quase sempre os mesmos, sites como toda materia, brasil escola, etc. Também procuro ver videos dependendo do conteudo",
+  "createdAt": {
+    "$date": "2024-06-05T10:59:46.445Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66604f9fa4b82db464679df9"
+  },
+  "pergunta7": "Com certeza",
+  "createdAt": {
+    "$date": "2024-06-05T10:59:46.445Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66605028a4b82db464679e07"
+  },
+  "pergunta6": "videos e pequisar em sites",
+  "createdAt": {
+    "$date": "2024-06-05T10:59:46.445Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6660502fa4b82db464679e09"
+  },
+  "pergunta7": "sim",
+  "createdAt": {
+    "$date": "2024-06-05T10:59:46.445Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6660509ba4b82db464679e17"
+  },
+  "pergunta6": "artigos na internet",
+  "createdAt": {
+    "$date": "2024-06-05T10:59:46.445Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666050a0a4b82db464679e19"
+  },
+  "pergunta7": "sim",
+  "createdAt": {
+    "$date": "2024-06-05T10:59:46.445Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66605c7a15603c723a913541"
+  },
+  "pergunta6": "não",
+  "createdAt": {
+    "$date": "2024-06-05T12:29:10.259Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66605c8315603c723a913543"
+  },
+  "pergunta7": "sim",
+  "createdAt": {
+    "$date": "2024-06-05T12:29:10.259Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66605d1e15603c723a913551"
+  },
+  "pergunta6": "Sim, pesquisa, sites, videos",
+  "createdAt": {
+    "$date": "2024-06-05T12:29:10.259Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66605d2515603c723a913553"
+  },
+  "pergunta7": "SIM",
+  "createdAt": {
+    "$date": "2024-06-05T12:29:10.259Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66605de615603c723a913561"
+  },
+  "pergunta6": "eu customo ver videos no youtube sobre a matéria",
+  "createdAt": {
+    "$date": "2024-06-05T12:29:10.259Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66605def15603c723a913563"
+  },
+  "pergunta7": "sim",
+  "createdAt": {
+    "$date": "2024-06-05T12:29:10.259Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66605e5015603c723a913571"
+  },
+  "pergunta6": "sim, as vezes vejo os videos, ou uso o google\n",
+  "createdAt": {
+    "$date": "2024-06-05T12:29:10.259Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66605e6c15603c723a913573"
+  },
+  "pergunta7": "sim, é o melhor metodo de estudo",
+  "createdAt": {
+    "$date": "2024-06-05T12:29:10.259Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66605eea15603c723a913581"
+  },
+  "pergunta6": "Youtube",
+  "createdAt": {
+    "$date": "2024-06-05T12:29:10.259Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66605ef015603c723a913583"
+  },
+  "pergunta7": "Com certeza",
+  "createdAt": {
+    "$date": "2024-06-05T12:29:10.259Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66605fae15603c723a913591"
+  },
+  "pergunta6": "Não",
+  "createdAt": {
+    "$date": "2024-06-05T12:29:10.259Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66605fbc15603c723a913593"
+  },
+  "pergunta7": "Sim\n",
+  "createdAt": {
+    "$date": "2024-06-05T12:29:10.259Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66605fef15603c723a9135a1"
+  },
+  "pergunta6": "youtube",
+  "createdAt": {
+    "$date": "2024-06-05T12:29:10.259Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66605ff215603c723a9135a3"
+  },
+  "pergunta7": "sim",
+  "createdAt": {
+    "$date": "2024-06-05T12:29:10.259Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6660603b15603c723a9135b1"
+  },
+  "pergunta6": "chat gpt, youtube...",
+  "createdAt": {
+    "$date": "2024-06-05T12:29:10.259Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6660604415603c723a9135b3"
+  },
+  "pergunta7": "sim para as contas",
+  "createdAt": {
+    "$date": "2024-06-05T12:29:10.259Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6660608515603c723a9135c1"
+  },
+  "pergunta6": "não",
+  "createdAt": {
+    "$date": "2024-06-05T12:29:10.259Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6660609115603c723a9135c3"
+  },
+  "pergunta7": "sim, é necessario para fazer contas",
+  "createdAt": {
+    "$date": "2024-06-05T12:29:10.259Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666060b315603c723a9135d1"
+  },
+  "pergunta6": "vídeos",
+  "createdAt": {
+    "$date": "2024-06-05T12:29:10.259Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666060b715603c723a9135d3"
+  },
+  "pergunta7": "sim",
+  "createdAt": {
+    "$date": "2024-06-05T12:29:10.259Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6660618015603c723a9135e1"
+  },
+  "pergunta6": "pesquisas e slides",
+  "createdAt": {
+    "$date": "2024-06-05T12:29:10.259Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6660618f15603c723a9135e3"
+  },
+  "pergunta7": "sim, muito importante \n",
+  "createdAt": {
+    "$date": "2024-06-05T12:29:10.259Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666061f915603c723a9135f1"
+  },
+  "pergunta6": "Chat gpt e youtube, além dos sites normais, tipo brasil escola etc",
+  "createdAt": {
+    "$date": "2024-06-05T12:29:10.259Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666061fe15603c723a9135f3"
+  },
+  "pergunta7": "Sim",
+  "createdAt": {
+    "$date": "2024-06-05T12:29:10.259Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6660628215603c723a913603"
+  },
+  "pergunta6": "chat gpt",
+  "createdAt": {
+    "$date": "2024-06-05T12:29:10.259Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6660628315603c723a913605"
+  },
+  "pergunta7": "",
+  "createdAt": {
+    "$date": "2024-06-05T12:29:10.259Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6660631715603c723a913613"
+  },
+  "pergunta6": "uso, videos, sites e normalmente a pesquisa",
+  "createdAt": {
+    "$date": "2024-06-05T12:29:10.259Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6660632a15603c723a913615"
+  },
+  "pergunta7": " claro, é ali que eu faço meus exercícios",
+  "createdAt": {
+    "$date": "2024-06-05T12:29:10.259Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6660639215603c723a913623"
+  },
+  "pergunta6": "youtube, tiktok",
+  "createdAt": {
+    "$date": "2024-06-05T12:29:10.259Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6660639c15603c723a913625"
+  },
+  "pergunta7": "Sim",
+  "createdAt": {
+    "$date": "2024-06-05T12:29:10.259Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666063ee15603c723a913633"
+  },
+  "pergunta6": "youtube, tiktok",
+  "createdAt": {
+    "$date": "2024-06-05T12:29:10.259Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666063fd15603c723a913635"
+  },
+  "pergunta7": "sim, você pode anotar coisas importantes",
+  "createdAt": {
+    "$date": "2024-06-05T12:29:10.259Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6660647015603c723a913643"
+  },
+  "pergunta6": "normalmente eu uso o toda matéria.",
+  "createdAt": {
+    "$date": "2024-06-05T12:29:10.259Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6660647a15603c723a913645"
+  },
+  "pergunta7": "sim, muito",
+  "createdAt": {
+    "$date": "2024-06-05T12:29:10.259Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66607896568ff87c873bba88"
+  },
+  "pergunta6": "youtube, brasilescola e todamateria",
+  "createdAt": {
+    "$date": "2024-06-05T14:32:49.963Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6660789f568ff87c873bba8a"
+  },
+  "pergunta7": "acho sim",
+  "createdAt": {
+    "$date": "2024-06-05T14:32:49.963Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666079c3568ff87c873bba98"
+  },
+  "pergunta6": "vídeos no youtube, de professores. Também sites como escola brasil e outros sites confiaveis ",
+  "createdAt": {
+    "$date": "2024-06-05T14:32:49.963Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666079cd568ff87c873bba9a"
+  },
+  "pergunta7": "EXTREMAMENTE",
+  "createdAt": {
+    "$date": "2024-06-05T14:32:49.963Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66607a31568ff87c873bbaa8"
+  },
+  "pergunta6": "nao",
+  "createdAt": {
+    "$date": "2024-06-05T14:32:49.963Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66607a39568ff87c873bbaaa"
+  },
+  "pergunta7": "sim",
+  "createdAt": {
+    "$date": "2024-06-05T14:32:49.963Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66607adb568ff87c873bbaba"
+  },
+  "pergunta6": "videos",
+  "createdAt": {
+    "$date": "2024-06-05T14:32:49.963Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66607af0568ff87c873bbabc"
+  },
+  "pergunta7": "sim, com ele consigo fazer contas",
+  "createdAt": {
+    "$date": "2024-06-05T14:32:49.963Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66607b7e568ff87c873bbaca"
+  },
+  "pergunta6": "Não, só vejo qualquer um no youtube.",
+  "createdAt": {
+    "$date": "2024-06-05T14:32:49.963Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66607b94568ff87c873bbacc"
+  },
+  "pergunta7": "Sim, fica mais fácil quando você anota. ",
+  "createdAt": {
+    "$date": "2024-06-05T14:32:49.963Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66607cab568ff87c873bbada"
+  },
+  "pergunta6": "eu uso o google scholar para ver pdfs sobre os assuntos, as vezes vejo vídos do canal \"ciência todo dia\" e vejo uns sites como brasil escola e etc",
+  "createdAt": {
+    "$date": "2024-06-05T14:32:49.963Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66607cb0568ff87c873bbadc"
+  },
+  "pergunta7": "sim",
+  "createdAt": {
+    "$date": "2024-06-05T14:32:49.963Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66607d07568ff87c873bbaea"
+  },
+  "pergunta6": "brainly",
+  "createdAt": {
+    "$date": "2024-06-05T14:32:49.963Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66607d10568ff87c873bbaec"
+  },
+  "pergunta7": "sim",
+  "createdAt": {
+    "$date": "2024-06-05T14:32:49.963Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66607d9d568ff87c873bbafa"
+  },
+  "pergunta6": "site",
+  "createdAt": {
+    "$date": "2024-06-05T14:32:49.963Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66607da3568ff87c873bbafc"
+  },
+  "pergunta7": "sim",
+  "createdAt": {
+    "$date": "2024-06-05T14:32:49.963Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66607e69568ff87c873bbb0a"
+  },
+  "pergunta6": "Não.",
+  "createdAt": {
+    "$date": "2024-06-05T14:32:49.963Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66607e71568ff87c873bbb0c"
+  },
+  "pergunta7": "Muito.",
+  "createdAt": {
+    "$date": "2024-06-05T14:32:49.963Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66607f42568ff87c873bbb1a"
+  },
+  "pergunta6": "geralmente vídeos.",
+  "createdAt": {
+    "$date": "2024-06-05T14:32:49.963Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66607f4a568ff87c873bbb1c"
+  },
+  "pergunta7": "siim.",
+  "createdAt": {
+    "$date": "2024-06-05T14:32:49.963Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6660802f568ff87c873bbb2a"
+  },
+  "pergunta6": "nao",
+  "createdAt": {
+    "$date": "2024-06-05T14:32:49.963Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66608030568ff87c873bbb2c"
+  },
+  "pergunta7": "",
+  "createdAt": {
+    "$date": "2024-06-05T14:32:49.963Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666195d770ae41c430587208"
+  },
+  "pergunta6": "Sim, sites e youtube.",
+  "createdAt": {
+    "$date": "2024-06-06T10:51:42.730Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666195de70ae41c43058720a"
+  },
+  "pergunta7": "Sim, muito.",
+  "createdAt": {
+    "$date": "2024-06-06T10:51:42.730Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6661965b70ae41c430587218"
+  },
+  "pergunta6": "Sim, todos esses (vídeos, sites e pesquisas). ",
+  "createdAt": {
+    "$date": "2024-06-06T10:51:42.730Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6661966370ae41c43058721a"
+  },
+  "pergunta7": "Um pouco",
+  "createdAt": {
+    "$date": "2024-06-06T10:51:42.730Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6661d5429d561e27ba4ca133"
+  },
+  "pergunta6": "ChatGPT, YouTube, Google Academics, Sites convencionais de estudo como Brasil Escola.",
+  "createdAt": {
+    "$date": "2024-06-06T15:20:14.379Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6661d54f9d561e27ba4ca135"
+  },
+  "pergunta7": "Sim, com certeza.",
+  "createdAt": {
+    "$date": "2024-06-06T15:20:14.379Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6661d6639d561e27ba4ca143"
+  },
+  "pergunta6": "Quando tenho dificuldade em compreender um conteudo eu acabo utilizando coisas como o youtube e o chatgpt para conseguir as respostas que procuro",
+  "createdAt": {
+    "$date": "2024-06-06T15:20:14.379Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6661d68f9d561e27ba4ca145"
+  },
+  "pergunta7": "Creio que sim, escrever tem grandes beneficios para retenção de informação.",
+  "createdAt": {
+    "$date": "2024-06-06T15:20:14.379Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6661d7469d561e27ba4ca153"
+  },
+  "pergunta6": "vídeos e sites.",
+  "createdAt": {
+    "$date": "2024-06-06T15:20:14.379Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6661d7509d561e27ba4ca155"
+  },
+  "pergunta7": "sim.",
+  "createdAt": {
+    "$date": "2024-06-06T15:20:14.379Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6661d7d19d561e27ba4ca163"
+  },
+  "pergunta6": "Google.",
+  "createdAt": {
+    "$date": "2024-06-06T15:20:14.379Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6661d7f29d561e27ba4ca165"
+  },
+  "pergunta7": "Sim.",
+  "createdAt": {
+    "$date": "2024-06-06T15:20:14.379Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6661d8a69d561e27ba4ca173"
+  },
+  "pergunta6": "Youtube, ChatGPT",
+  "createdAt": {
+    "$date": "2024-06-06T15:20:14.379Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6661d8ad9d561e27ba4ca175"
+  },
+  "pergunta7": "Sim",
+  "createdAt": {
+    "$date": "2024-06-06T15:20:14.379Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6661d9279d561e27ba4ca183"
+  },
+  "pergunta6": "eu uso geralmente you tube e não tem um site especifico",
+  "createdAt": {
+    "$date": "2024-06-06T15:20:14.379Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6661d93d9d561e27ba4ca185"
+  },
+  "pergunta7": "eu acho importante anotar tudo o que o professor coloca no quadro para absorver melhor o conteudo\n",
+  "createdAt": {
+    "$date": "2024-06-06T15:20:14.379Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6661da3a9d561e27ba4ca193"
+  },
+  "pergunta6": "Assino uma plataforma de vestibular(Ferreto) qual frequentemente uso para meus estudos.",
+  "createdAt": {
+    "$date": "2024-06-06T15:20:14.379Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6661da499d561e27ba4ca195"
+  },
+  "pergunta7": "Sim, para fazer resumos durante a aula.",
+  "createdAt": {
+    "$date": "2024-06-06T15:20:14.379Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6661dabf9d561e27ba4ca1a3"
+  },
+  "pergunta6": "YouTube, e também a plataforma do Ferretto e os Mestres da Matemática.",
+  "createdAt": {
+    "$date": "2024-06-06T15:20:14.379Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6661dac89d561e27ba4ca1a5"
+  },
+  "pergunta7": "Sim.",
+  "createdAt": {
+    "$date": "2024-06-06T15:20:14.379Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6661db659d561e27ba4ca1b3"
+  },
+  "pergunta6": "sim",
+  "createdAt": {
+    "$date": "2024-06-06T15:20:14.379Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6661db6b9d561e27ba4ca1b5"
+  },
+  "pergunta7": "sim",
+  "createdAt": {
+    "$date": "2024-06-06T15:20:14.379Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666212370586f927f080cf33"
+  },
+  "pergunta6": "youtube.",
+  "createdAt": {
+    "$date": "2024-06-06T19:43:53.866Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6662123d0586f927f080cf35"
+  },
+  "pergunta7": "sim.",
+  "createdAt": {
+    "$date": "2024-06-06T19:43:53.866Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666212e90586f927f080cf43"
+  },
+  "pergunta6": "sim, videos de cursinho",
+  "createdAt": {
+    "$date": "2024-06-06T19:43:53.866Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666212f00586f927f080cf45"
+  },
+  "pergunta7": "concerteza",
+  "createdAt": {
+    "$date": "2024-06-06T19:43:53.866Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666213ed0586f927f080cf53"
+  },
+  "pergunta6": "vídeos",
+  "createdAt": {
+    "$date": "2024-06-06T19:43:53.866Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666213f70586f927f080cf55"
+  },
+  "pergunta7": "totalmente",
+  "createdAt": {
+    "$date": "2024-06-06T19:43:53.866Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666214af0586f927f080cf63"
+  },
+  "pergunta6": "sim, eu uso o descomplica.",
+  "createdAt": {
+    "$date": "2024-06-06T19:43:53.866Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666214c70586f927f080cf65"
+  },
+  "pergunta7": "sim, pois pratico muitas listas nele.",
+  "createdAt": {
+    "$date": "2024-06-06T19:43:53.866Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666215510586f927f080cf73"
+  },
+  "pergunta6": "videos e sites",
+  "createdAt": {
+    "$date": "2024-06-06T19:43:53.866Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666215650586f927f080cf75"
+  },
+  "pergunta7": "sim",
+  "createdAt": {
+    "$date": "2024-06-06T19:43:53.866Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666216d10586f927f080cf83"
+  },
+  "pergunta6": "youtube",
+  "createdAt": {
+    "$date": "2024-06-06T19:43:53.866Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666216d60586f927f080cf85"
+  },
+  "pergunta7": "sim",
+  "createdAt": {
+    "$date": "2024-06-06T19:43:53.866Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666217760586f927f080cf97"
+  },
+  "pergunta6": "utilizo o youtube, sites",
+  "createdAt": {
+    "$date": "2024-06-06T19:43:53.866Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6662179d0586f927f080cf99"
+  },
+  "pergunta7": "sim, e a internet tambem",
+  "createdAt": {
+    "$date": "2024-06-06T19:43:53.866Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6662179d0586f927f080cf9b"
+  },
+  "pergunta7": "sim, e a internet tambem",
+  "createdAt": {
+    "$date": "2024-06-06T19:43:53.866Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666218210586f927f080cfa9"
+  },
+  "pergunta6": "sites na internet e vídeos no youtube ",
+  "createdAt": {
+    "$date": "2024-06-06T19:43:53.866Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6662182b0586f927f080cfab"
+  },
+  "pergunta7": "sim",
+  "createdAt": {
+    "$date": "2024-06-06T19:43:53.866Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666219220586f927f080cfbb"
+  },
+  "pergunta6": "sim, youtube e sites educativos.",
+  "createdAt": {
+    "$date": "2024-06-06T19:43:53.866Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666219390586f927f080cfbd"
+  },
+  "pergunta7": "sim, sempre faço exercícios para aprender.",
+  "createdAt": {
+    "$date": "2024-06-06T19:43:53.866Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66621a4f0586f927f080cfcb"
+  },
+  "pergunta6": "Sim, sites e vídeos que são oferecidos por cursinhos livres e sites educativos.",
+  "createdAt": {
+    "$date": "2024-06-06T19:43:53.866Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66621a730586f927f080cfcd"
+  },
+  "pergunta7": "Muito, pois os professores passam vários exercícios, e isso me ajuda a compreender o conteúdo.",
+  "createdAt": {
+    "$date": "2024-06-06T19:43:53.866Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66621b880586f927f080cfdb"
+  },
+  "pergunta6": "Sim, utilizo videoaulas do youtube para poder entender melhor os conteúdos.",
+  "createdAt": {
+    "$date": "2024-06-06T19:43:53.866Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66621bbe0586f927f080cfdd"
+  },
+  "pergunta7": "Sim, eu preciso escrever as fórmulas e os métodos de resolução para aprender a fazer e acho melhor utilizar o caderno para resolver as questões.",
+  "createdAt": {
+    "$date": "2024-06-06T19:43:53.866Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66621cb40586f927f080cfeb"
+  },
+  "pergunta6": "Sim.",
+  "createdAt": {
+    "$date": "2024-06-06T19:43:53.866Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66621cbf0586f927f080cfed"
+  },
+  "pergunta7": "Sim.",
+  "createdAt": {
+    "$date": "2024-06-06T19:43:53.866Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66621dec0586f927f080cffb"
+  },
+  "pergunta6": "Google e youtube.",
+  "createdAt": {
+    "$date": "2024-06-06T19:43:53.866Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66621e110586f927f080cffd"
+  },
+  "pergunta7": "Sim, pois ele ajuda a você a aprender melhor e lembrar melhor das coisas.",
+  "createdAt": {
+    "$date": "2024-06-06T19:43:53.866Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66621e8a0586f927f080d00b"
+  },
+  "pergunta6": "Sim, várias.",
+  "createdAt": {
+    "$date": "2024-06-06T19:43:53.866Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66621e900586f927f080d00d"
+  },
+  "pergunta7": "Sim",
+  "createdAt": {
+    "$date": "2024-06-06T19:43:53.866Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66621f4b0586f927f080d01b"
+  },
+  "pergunta6": "sim\n",
+  "createdAt": {
+    "$date": "2024-06-06T19:43:53.866Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66621f550586f927f080d01d"
+  },
+  "pergunta7": "sim",
+  "createdAt": {
+    "$date": "2024-06-06T19:43:53.866Z"
+  },
+  "__v": 0
+}]

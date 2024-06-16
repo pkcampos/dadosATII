@@ -1,0 +1,1440 @@
+[{
+  "_id": {
+    "$oid": "666045b8a4b82db464679d29"
+  },
+  "pergunta1": "sim",
+  "createdAt": {
+    "$date": "2024-06-05T10:59:46.443Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666045c6a4b82db464679d2d"
+  },
+  "pergunta3": "nao",
+  "createdAt": {
+    "$date": "2024-06-05T10:59:46.443Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66604680a4b82db464679d39"
+  },
+  "pergunta1": "sim",
+  "createdAt": {
+    "$date": "2024-06-05T10:59:46.443Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6660469ca4b82db464679d3d"
+  },
+  "pergunta3": "sim, fazendo exercícios",
+  "createdAt": {
+    "$date": "2024-06-05T10:59:46.443Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666046ffa4b82db464679d49"
+  },
+  "pergunta1": "sim",
+  "createdAt": {
+    "$date": "2024-06-05T10:59:46.443Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66604734a4b82db464679d4d"
+  },
+  "pergunta3": "sim, revisando e fazendo contas",
+  "createdAt": {
+    "$date": "2024-06-05T10:59:46.443Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66604802a4b82db464679d5b"
+  },
+  "pergunta1": "sim, prefiro escutar alguém falar ou colocar a mão na massa (esportes, maquetes etc)",
+  "createdAt": {
+    "$date": "2024-06-05T10:59:46.443Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66604824a4b82db464679d5f"
+  },
+  "pergunta3": "sim, gosto de fazer cálculos e fazer exercicios.",
+  "createdAt": {
+    "$date": "2024-06-05T10:59:46.443Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66604898a4b82db464679d6b"
+  },
+  "pergunta1": "Sim, escrevendo e vendo videos",
+  "createdAt": {
+    "$date": "2024-06-05T10:59:46.443Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666048ada4b82db464679d6f"
+  },
+  "pergunta3": "Fazendo exercicios ",
+  "createdAt": {
+    "$date": "2024-06-05T10:59:46.443Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6660491fa4b82db464679d7b"
+  },
+  "pergunta1": "normalmente vendo videos",
+  "createdAt": {
+    "$date": "2024-06-05T10:59:46.443Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6660493ca4b82db464679d7f"
+  },
+  "pergunta3": "ver videos e resolver questões",
+  "createdAt": {
+    "$date": "2024-06-05T10:59:46.443Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666049efa4b82db464679d8b"
+  },
+  "pergunta1": "observando e praticando ",
+  "createdAt": {
+    "$date": "2024-06-05T10:59:46.443Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66604a46a4b82db464679d8f"
+  },
+  "pergunta3": "observando e praticando questoes ",
+  "createdAt": {
+    "$date": "2024-06-05T10:59:46.443Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66604b18a4b82db464679d9b"
+  },
+  "pergunta1": "sim, a maioria das vezes de forma prática, fazendo experimentos e etc ",
+  "createdAt": {
+    "$date": "2024-06-05T10:59:46.443Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66604b27a4b82db464679d9f"
+  },
+  "pergunta3": "não :(",
+  "createdAt": {
+    "$date": "2024-06-05T10:59:46.443Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66604b98a4b82db464679dad"
+  },
+  "pergunta1": "sim",
+  "createdAt": {
+    "$date": "2024-06-05T10:59:46.443Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66604bbfa4b82db464679db1"
+  },
+  "pergunta3": "vejo vídeos, faço atividades pelo google e aprendo",
+  "createdAt": {
+    "$date": "2024-06-05T10:59:46.443Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66604c46a4b82db464679dbd"
+  },
+  "pergunta1": "Não",
+  "createdAt": {
+    "$date": "2024-06-05T10:59:46.443Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66604c7aa4b82db464679dc1"
+  },
+  "pergunta3": "Sim, resolvendo exercícios",
+  "createdAt": {
+    "$date": "2024-06-05T10:59:46.443Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66604cfba4b82db464679dcd"
+  },
+  "pergunta1": "Não.",
+  "createdAt": {
+    "$date": "2024-06-05T10:59:46.443Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66604d1fa4b82db464679dd1"
+  },
+  "pergunta3": "Sim, assisto videos e treino no caderno.",
+  "createdAt": {
+    "$date": "2024-06-05T10:59:46.443Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66604d93a4b82db464679ddd"
+  },
+  "pergunta1": "Escrevendo e vendo vídeos.",
+  "createdAt": {
+    "$date": "2024-06-05T10:59:46.443Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66604dc6a4b82db464679de1"
+  },
+  "pergunta3": "Sim, faço questões para reforçar o conteúdo que eu aprendi.",
+  "createdAt": {
+    "$date": "2024-06-05T10:59:46.443Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66604ecea4b82db464679ded"
+  },
+  "pergunta1": "Geralmente anotando e escrevendo as coisas com minhas proprias palavras, da forma que eu entendi, eu lembro do conteudo mais facil",
+  "createdAt": {
+    "$date": "2024-06-05T10:59:46.443Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66604ef5a4b82db464679df1"
+  },
+  "pergunta3": "Não tenho uma tecnica especifica",
+  "createdAt": {
+    "$date": "2024-06-05T10:59:46.443Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66604fcfa4b82db464679dfd"
+  },
+  "pergunta1": "vendo videos no youtube",
+  "createdAt": {
+    "$date": "2024-06-05T10:59:46.443Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66604ffda4b82db464679e01"
+  },
+  "pergunta3": "eu tento fazer algumas questões, e se eu não sei eu pesquiso a resolução na internet\n",
+  "createdAt": {
+    "$date": "2024-06-05T10:59:46.443Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66605069a4b82db464679e0d"
+  },
+  "pergunta1": "Não. Apenas leio o conteúdo.",
+  "createdAt": {
+    "$date": "2024-06-05T10:59:46.443Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6660507fa4b82db464679e11"
+  },
+  "pergunta3": "não",
+  "createdAt": {
+    "$date": "2024-06-05T10:59:46.443Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66605a3615603c723a913535"
+  },
+  "pergunta1": "ddd",
+  "createdAt": {
+    "$date": "2024-06-05T12:29:10.257Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66605baf15603c723a913537"
+  },
+  "pergunta1": "entender a matéria e memorizar para trabalhos",
+  "createdAt": {
+    "$date": "2024-06-05T12:29:10.257Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66605c0215603c723a91353b"
+  },
+  "pergunta3": "sim. Faço contas e simulados para entender o conteúdo e fixar a matéria",
+  "createdAt": {
+    "$date": "2024-06-05T12:29:10.257Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66605cd415603c723a913547"
+  },
+  "pergunta1": "Não\n",
+  "createdAt": {
+    "$date": "2024-06-05T12:29:10.257Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66605ce615603c723a91354b"
+  },
+  "pergunta3": "Não",
+  "createdAt": {
+    "$date": "2024-06-05T12:29:10.257Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66605d5815603c723a913557"
+  },
+  "pergunta1": "Não",
+  "createdAt": {
+    "$date": "2024-06-05T12:29:10.257Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66605d9b15603c723a91355b"
+  },
+  "pergunta3": "Fazer exercicios ",
+  "createdAt": {
+    "$date": "2024-06-05T12:29:10.257Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66605e0e15603c723a913567"
+  },
+  "pergunta1": "não, eu acho",
+  "createdAt": {
+    "$date": "2024-06-05T12:29:10.257Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66605e2015603c723a91356b"
+  },
+  "pergunta3": "não",
+  "createdAt": {
+    "$date": "2024-06-05T12:29:10.257Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66605eb215603c723a913577"
+  },
+  "pergunta1": "Sim , prestando atenção nas aulas e vendo vídeos informativos em busca de aprimirorar meus conhecimentos",
+  "createdAt": {
+    "$date": "2024-06-05T12:29:10.257Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66605ed215603c723a91357b"
+  },
+  "pergunta3": "Sim, o método gh",
+  "createdAt": {
+    "$date": "2024-06-05T12:29:10.257Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66605f4e15603c723a913587"
+  },
+  "pergunta1": "Não",
+  "createdAt": {
+    "$date": "2024-06-05T12:29:10.257Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66605f6715603c723a91358b"
+  },
+  "pergunta3": "Sim, o método Curió",
+  "createdAt": {
+    "$date": "2024-06-05T12:29:10.257Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66605fd115603c723a913597"
+  },
+  "pergunta1": "não",
+  "createdAt": {
+    "$date": "2024-06-05T12:29:10.257Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66605fe515603c723a91359b"
+  },
+  "pergunta3": "não\n",
+  "createdAt": {
+    "$date": "2024-06-05T12:29:10.257Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6660600b15603c723a9135a7"
+  },
+  "pergunta1": "vendo videos e executando\n",
+  "createdAt": {
+    "$date": "2024-06-05T12:29:10.257Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6660602015603c723a9135ab"
+  },
+  "pergunta3": "fazendo contas e vendo videos",
+  "createdAt": {
+    "$date": "2024-06-05T12:29:10.257Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6660605f15603c723a9135b7"
+  },
+  "pergunta1": "não",
+  "createdAt": {
+    "$date": "2024-06-05T12:29:10.257Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6660607615603c723a9135bb"
+  },
+  "pergunta3": "sim, yotube, chat GPT...",
+  "createdAt": {
+    "$date": "2024-06-05T12:29:10.257Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666060a015603c723a9135c7"
+  },
+  "pergunta1": "não",
+  "createdAt": {
+    "$date": "2024-06-05T12:29:10.257Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666060a815603c723a9135cb"
+  },
+  "pergunta3": "não\n",
+  "createdAt": {
+    "$date": "2024-06-05T12:29:10.257Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666060cb15603c723a9135d7"
+  },
+  "pergunta1": "sim",
+  "createdAt": {
+    "$date": "2024-06-05T12:29:10.257Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6660610a15603c723a9135db"
+  },
+  "pergunta3": "sim, treinando e fazendo vários exercicios ",
+  "createdAt": {
+    "$date": "2024-06-05T12:29:10.257Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666061ad15603c723a9135e7"
+  },
+  "pergunta1": "sim",
+  "createdAt": {
+    "$date": "2024-06-05T12:29:10.257Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666061d715603c723a9135eb"
+  },
+  "pergunta3": "Escrevendo e ensinando e debatendo sobre o conteúdo",
+  "createdAt": {
+    "$date": "2024-06-05T12:29:10.257Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6660622315603c723a9135f7"
+  },
+  "pergunta1": "Estudando",
+  "createdAt": {
+    "$date": "2024-06-05T12:29:10.257Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6660622315603c723a9135f9"
+  },
+  "pergunta1": "Estudando",
+  "createdAt": {
+    "$date": "2024-06-05T12:29:10.257Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6660624f15603c723a9135fd"
+  },
+  "pergunta3": "Com cálculos",
+  "createdAt": {
+    "$date": "2024-06-05T12:29:10.257Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666062c015603c723a913609"
+  },
+  "pergunta1": "sim, normalmente eu estudo conforme o que tem na apostila ou eu pesquiso no google",
+  "createdAt": {
+    "$date": "2024-06-05T12:29:10.257Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666062f115603c723a91360d"
+  },
+  "pergunta3": "Sim vendo videos, ou fazendo exercícios sobre a matéria",
+  "createdAt": {
+    "$date": "2024-06-05T12:29:10.257Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6660635115603c723a913619"
+  },
+  "pergunta1": "Não, em específico mas aprendo melhor com música",
+  "createdAt": {
+    "$date": "2024-06-05T12:29:10.257Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6660636c15603c723a91361d"
+  },
+  "pergunta3": "Não",
+  "createdAt": {
+    "$date": "2024-06-05T12:29:10.257Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666063b715603c723a913629"
+  },
+  "pergunta1": "sim",
+  "createdAt": {
+    "$date": "2024-06-05T12:29:10.257Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666063da15603c723a91362d"
+  },
+  "pergunta3": "não",
+  "createdAt": {
+    "$date": "2024-06-05T12:29:10.257Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6660642815603c723a913639"
+  },
+  "pergunta1": "prestar atenção na aula e estudar em casa pelas anotações, livros e etc",
+  "createdAt": {
+    "$date": "2024-06-05T12:29:10.257Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6660645615603c723a91363d"
+  },
+  "pergunta3": "sim, eu pratico exercícios sobre o conteúdo dado em aula",
+  "createdAt": {
+    "$date": "2024-06-05T12:29:10.257Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6660775d568ff87c873bba7a"
+  },
+  "pergunta1": "dd",
+  "createdAt": {
+    "$date": "2024-06-05T14:32:49.957Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6660784f568ff87c873bba7c"
+  },
+  "pergunta1": "não",
+  "createdAt": {
+    "$date": "2024-06-05T14:32:49.957Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66607868568ff87c873bba82"
+  },
+  "pergunta3": "não",
+  "createdAt": {
+    "$date": "2024-06-05T14:32:49.957Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66607946568ff87c873bba8e"
+  },
+  "pergunta1": "Eu escrevo bastante e leio. EU também peço ajudar para pessoas que sabem o conteudo. Também faço varios excercios para na hora da prova eu estar preparada. \n",
+  "createdAt": {
+    "$date": "2024-06-05T14:32:49.957Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66607975568ff87c873bba92"
+  },
+  "pergunta3": "exercicios ",
+  "createdAt": {
+    "$date": "2024-06-05T14:32:49.957Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666079ff568ff87c873bba9e"
+  },
+  "pergunta1": "nao\n",
+  "createdAt": {
+    "$date": "2024-06-05T14:32:49.957Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66607a11568ff87c873bbaa2"
+  },
+  "pergunta3": "nao",
+  "createdAt": {
+    "$date": "2024-06-05T14:32:49.957Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66607a66568ff87c873bbab0"
+  },
+  "pergunta1": "Eu aprendo melhor explicando o conteúdo para outras pessoas",
+  "createdAt": {
+    "$date": "2024-06-05T14:32:49.957Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66607a8c568ff87c873bbab4"
+  },
+  "pergunta3": "repetir contas ate aprender a fazer",
+  "createdAt": {
+    "$date": "2024-06-05T14:32:49.957Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66607b19568ff87c873bbac0"
+  },
+  "pergunta1": "Sim, prefiro assistir vídeos para aprender melhor.",
+  "createdAt": {
+    "$date": "2024-06-05T14:32:49.957Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66607b48568ff87c873bbac4"
+  },
+  "pergunta3": "Normalmente eu pesquiso e faço diversos exercícios para memorizar as regras e como resolver o cálculo.",
+  "createdAt": {
+    "$date": "2024-06-05T14:32:49.957Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66607bbd568ff87c873bbad0"
+  },
+  "pergunta1": "sim",
+  "createdAt": {
+    "$date": "2024-06-05T14:32:49.957Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66607c19568ff87c873bbad4"
+  },
+  "pergunta3": "sim, eu gosto de escrever e analisar o conteúdo que vou aprender e depois ver as fórmulas, o que cada parte da fórmula faz e depois fazer uns exercícios",
+  "createdAt": {
+    "$date": "2024-06-05T14:32:49.957Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66607cce568ff87c873bbae0"
+  },
+  "pergunta1": "não\n",
+  "createdAt": {
+    "$date": "2024-06-05T14:32:49.957Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66607ced568ff87c873bbae4"
+  },
+  "pergunta3": "não aprendo",
+  "createdAt": {
+    "$date": "2024-06-05T14:32:49.957Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66607d25568ff87c873bbaf0"
+  },
+  "pergunta1": "sim",
+  "createdAt": {
+    "$date": "2024-06-05T14:32:49.957Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66607d59568ff87c873bbaf4"
+  },
+  "pergunta3": "nao",
+  "createdAt": {
+    "$date": "2024-06-05T14:32:49.957Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66607dc3568ff87c873bbb00"
+  },
+  "pergunta1": "depende da matéria.",
+  "createdAt": {
+    "$date": "2024-06-05T14:32:49.957Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66607e08568ff87c873bbb04"
+  },
+  "pergunta3": "Sim. Fazendo exercicios da matéria, seja matemática, física, etc.",
+  "createdAt": {
+    "$date": "2024-06-05T14:32:49.957Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66607edb568ff87c873bbb10"
+  },
+  "pergunta1": "sim, tenho que escrever no papel pra aprender",
+  "createdAt": {
+    "$date": "2024-06-05T14:32:49.957Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66607eff568ff87c873bbb14"
+  },
+  "pergunta3": "não.",
+  "createdAt": {
+    "$date": "2024-06-05T14:32:49.957Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66607fa9568ff87c873bbb20"
+  },
+  "pergunta1": "tenho. eu aprendo melhor olhando \n",
+  "createdAt": {
+    "$date": "2024-06-05T14:32:49.957Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66607fcc568ff87c873bbb24"
+  },
+  "pergunta3": "nao estudo",
+  "createdAt": {
+    "$date": "2024-06-05T14:32:49.957Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666194d270ae41c4305871fc"
+  },
+  "pergunta1": "s",
+  "createdAt": {
+    "$date": "2024-06-06T10:51:42.727Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666194f270ae41c4305871fe"
+  },
+  "pergunta1": "Sim",
+  "createdAt": {
+    "$date": "2024-06-06T10:51:42.727Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6661954470ae41c430587202"
+  },
+  "pergunta3": "Sim, assistir videos do conteúdo e fazer muitos exercícios.",
+  "createdAt": {
+    "$date": "2024-06-06T10:51:42.727Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6661960670ae41c43058720e"
+  },
+  "pergunta1": "sim",
+  "createdAt": {
+    "$date": "2024-06-06T10:51:42.727Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6661961e70ae41c430587212"
+  },
+  "pergunta3": "Sim, vendo vídeos e lendo.",
+  "createdAt": {
+    "$date": "2024-06-06T10:51:42.727Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6661d3b99d561e27ba4ca127"
+  },
+  "pergunta1": "tes",
+  "createdAt": {
+    "$date": "2024-06-06T15:20:14.376Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6661d4b39d561e27ba4ca129"
+  },
+  "pergunta1": "Costumo aprender ensinando os outros.",
+  "createdAt": {
+    "$date": "2024-06-06T15:20:14.376Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6661d4d59d561e27ba4ca12d"
+  },
+  "pergunta3": "Fazendo exercícios.",
+  "createdAt": {
+    "$date": "2024-06-06T15:20:14.376Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6661d5c09d561e27ba4ca139"
+  },
+  "pergunta1": "Eu acho que consigo aprender melhor com demonstrações e exemplos praticos, eu tenho a impressão que após entender a funcionalidade de algo fica mais facil compreender o todo, se isso faz sentido.",
+  "createdAt": {
+    "$date": "2024-06-06T15:20:14.376Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6661d6009d561e27ba4ca13d"
+  },
+  "pergunta3": "Não, apenas faço os exercisios propostos pelos meus professores.",
+  "createdAt": {
+    "$date": "2024-06-06T15:20:14.376Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6661d6b59d561e27ba4ca149"
+  },
+  "pergunta1": "sim",
+  "createdAt": {
+    "$date": "2024-06-06T15:20:14.376Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6661d6e39d561e27ba4ca14d"
+  },
+  "pergunta3": "sim, faço exercícios online.",
+  "createdAt": {
+    "$date": "2024-06-06T15:20:14.376Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6661d7779d561e27ba4ca159"
+  },
+  "pergunta1": "Sim, ativo",
+  "createdAt": {
+    "$date": "2024-06-06T15:20:14.376Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6661d7a39d561e27ba4ca15d"
+  },
+  "pergunta3": "Fazer exercícios e anotar.",
+  "createdAt": {
+    "$date": "2024-06-06T15:20:14.376Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6661d8199d561e27ba4ca169"
+  },
+  "pergunta1": "não",
+  "createdAt": {
+    "$date": "2024-06-06T15:20:14.376Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6661d8589d561e27ba4ca16d"
+  },
+  "pergunta3": "Revisão das anotações feitas em aula",
+  "createdAt": {
+    "$date": "2024-06-06T15:20:14.376Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6661d8cd9d561e27ba4ca179"
+  },
+  "pergunta1": "praticar em casa ",
+  "createdAt": {
+    "$date": "2024-06-06T15:20:14.376Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6661d8f39d561e27ba4ca17d"
+  },
+  "pergunta3": "eu presto atenção na aula e em casa treino mais um pouco com alguns exercicios",
+  "createdAt": {
+    "$date": "2024-06-06T15:20:14.376Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6661d9609d561e27ba4ca189"
+  },
+  "pergunta1": "sim",
+  "createdAt": {
+    "$date": "2024-06-06T15:20:14.376Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6661d9a49d561e27ba4ca18d"
+  },
+  "pergunta3": "Além de aprender a teoria, preciso praticar muito resolvendo questões na prática.",
+  "createdAt": {
+    "$date": "2024-06-06T15:20:14.376Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6661da5e9d561e27ba4ca199"
+  },
+  "pergunta1": "Sim",
+  "createdAt": {
+    "$date": "2024-06-06T15:20:14.376Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6661da849d561e27ba4ca19d"
+  },
+  "pergunta3": "Eu assisto vídeos no YouTube do conteúdo. Depois, eu pratico o que eu aprendi resolvendo exercícios.",
+  "createdAt": {
+    "$date": "2024-06-06T15:20:14.376Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6661dae89d561e27ba4ca1a9"
+  },
+  "pergunta1": "sim",
+  "createdAt": {
+    "$date": "2024-06-06T15:20:14.376Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6661db1f9d561e27ba4ca1ad"
+  },
+  "pergunta3": "sim, fazendo exercícios ",
+  "createdAt": {
+    "$date": "2024-06-06T15:20:14.376Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666211890586f927f080cf27"
+  },
+  "pergunta1": "teste",
+  "createdAt": {
+    "$date": "2024-06-06T19:43:53.864Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666211b30586f927f080cf29"
+  },
+  "pergunta1": "escrever o que eu estudei em uma folha de papel.",
+  "createdAt": {
+    "$date": "2024-06-06T19:43:53.864Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6662120a0586f927f080cf2d"
+  },
+  "pergunta3": "apenas faço bastante exercícios a respeito do assunto.",
+  "createdAt": {
+    "$date": "2024-06-06T19:43:53.864Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6662125a0586f927f080cf39"
+  },
+  "pergunta1": "não",
+  "createdAt": {
+    "$date": "2024-06-06T19:43:53.864Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666212730586f927f080cf3d"
+  },
+  "pergunta3": "sim, muita resolução de exercícios",
+  "createdAt": {
+    "$date": "2024-06-06T19:43:53.864Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666213a40586f927f080cf49"
+  },
+  "pergunta1": "eu assisto vídeo aulas, depois fingo que estou dando uma aula para alguém",
+  "createdAt": {
+    "$date": "2024-06-06T19:43:53.864Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666213ce0586f927f080cf4d"
+  },
+  "pergunta3": "não",
+  "createdAt": {
+    "$date": "2024-06-06T19:43:53.864Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6662141f0586f927f080cf59"
+  },
+  "pergunta1": "sim, eu leio e faço resumos.",
+  "createdAt": {
+    "$date": "2024-06-06T19:43:53.864Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666214610586f927f080cf5d"
+  },
+  "pergunta3": "eu prefiro fazer listas.",
+  "createdAt": {
+    "$date": "2024-06-06T19:43:53.864Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666214f00586f927f080cf69"
+  },
+  "pergunta1": "na prática e ouvindo\n",
+  "createdAt": {
+    "$date": "2024-06-06T19:43:53.864Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666215060586f927f080cf6d"
+  },
+  "pergunta3": "videos e exercicios",
+  "createdAt": {
+    "$date": "2024-06-06T19:43:53.864Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666216600586f927f080cf79"
+  },
+  "pergunta1": "sim, com meu irmão e vendo video aula",
+  "createdAt": {
+    "$date": "2024-06-06T19:43:53.864Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666216750586f927f080cf7d"
+  },
+  "pergunta3": "com meu irmao e fazendo exercicios",
+  "createdAt": {
+    "$date": "2024-06-06T19:43:53.864Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666216f70586f927f080cf89"
+  },
+  "pergunta1": "mapa mental e resumos",
+  "createdAt": {
+    "$date": "2024-06-06T19:43:53.864Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666217250586f927f080cf8d"
+  },
+  "pergunta3": "meu irmao me ajuda e meus amigos tambem\n",
+  "createdAt": {
+    "$date": "2024-06-06T19:43:53.864Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666217c10586f927f080cf9f"
+  },
+  "pergunta1": "aprendo muito bem praticando ",
+  "createdAt": {
+    "$date": "2024-06-06T19:43:53.864Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666217e50586f927f080cfa3"
+  },
+  "pergunta3": "vejo vídeos e faço exercícios ",
+  "createdAt": {
+    "$date": "2024-06-06T19:43:53.864Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666218860586f927f080cfb1"
+  },
+  "pergunta1": "sim, ouvindo e observando na prática.",
+  "createdAt": {
+    "$date": "2024-06-06T19:43:53.864Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666218b80586f927f080cfb5"
+  },
+  "pergunta3": "sim, fazendo exercícios.",
+  "createdAt": {
+    "$date": "2024-06-06T19:43:53.864Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666219840586f927f080cfc1"
+  },
+  "pergunta1": "Sim, eu aprendo mais com métodos práticos, como resolução de exercícios e atividades interativas.",
+  "createdAt": {
+    "$date": "2024-06-06T19:43:53.864Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666219e80586f927f080cfc5"
+  },
+  "pergunta3": "Sim, utilizando sites educativos, e quando eu não consigo entender, pergunto para algum adulto experiente com o conteúdo.",
+  "createdAt": {
+    "$date": "2024-06-06T19:43:53.864Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66621ab60586f927f080cfd1"
+  },
+  "pergunta1": "Eu aprendo principalmente falando em voz alta os conteúdos, fazendo mapas mentais e questões.",
+  "createdAt": {
+    "$date": "2024-06-06T19:43:53.864Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66621af10586f927f080cfd5"
+  },
+  "pergunta3": "Não tenho uma técnica exata, eu faço questões para treinar os conteúdos.",
+  "createdAt": {
+    "$date": "2024-06-06T19:43:53.864Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66621bfd0586f927f080cfe1"
+  },
+  "pergunta1": "Não.",
+  "createdAt": {
+    "$date": "2024-06-06T19:43:53.864Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66621c850586f927f080cfe5"
+  },
+  "pergunta3": "Não.",
+  "createdAt": {
+    "$date": "2024-06-06T19:43:53.864Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66621d190586f927f080cff1"
+  },
+  "pergunta1": "Nâo exatamente, eu normalmente aprendo melhor colocando em prática oque me foi passado, ou escrevendo e revisando.",
+  "createdAt": {
+    "$date": "2024-06-06T19:43:53.864Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66621d810586f927f080cff5"
+  },
+  "pergunta3": "sim, normalmente eu tento refazer várias vezes a mesma questão, e faço outros exercícios também sobre o conteúdo.",
+  "createdAt": {
+    "$date": "2024-06-06T19:43:53.864Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66621e370586f927f080d001"
+  },
+  "pergunta1": "Sim, escutando e escrevendo.",
+  "createdAt": {
+    "$date": "2024-06-06T19:43:53.864Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66621e610586f927f080d005"
+  },
+  "pergunta3": "Geralmente treinando e prestando atenção nas aulas",
+  "createdAt": {
+    "$date": "2024-06-06T19:43:53.864Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66621eeb0586f927f080d011"
+  },
+  "pergunta1": "flashcards\n",
+  "createdAt": {
+    "$date": "2024-06-06T19:43:53.864Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66621f290586f927f080d015"
+  },
+  "pergunta3": "exercicios e videoaulas\n",
+  "createdAt": {
+    "$date": "2024-06-06T19:43:53.864Z"
+  },
+  "__v": 0
+}]

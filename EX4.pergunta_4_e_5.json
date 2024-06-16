@@ -1,0 +1,1400 @@
+[{
+  "_id": {
+    "$oid": "666045d5a4b82db464679d2f"
+  },
+  "pergunta4": "não",
+  "createdAt": {
+    "$date": "2024-06-05T10:59:46.445Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666045dea4b82db464679d31"
+  },
+  "pergunta5": 6,
+  "createdAt": {
+    "$date": "2024-06-05T10:59:46.445Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666046a7a4b82db464679d3f"
+  },
+  "pergunta4": "sim, com resumos",
+  "createdAt": {
+    "$date": "2024-06-05T10:59:46.445Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666046a9a4b82db464679d41"
+  },
+  "pergunta5": 6,
+  "createdAt": {
+    "$date": "2024-06-05T10:59:46.445Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66604746a4b82db464679d4f"
+  },
+  "pergunta4": "videoaulas e leitura",
+  "createdAt": {
+    "$date": "2024-06-05T10:59:46.445Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66604749a4b82db464679d51"
+  },
+  "pergunta5": 6,
+  "createdAt": {
+    "$date": "2024-06-05T10:59:46.445Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66604840a4b82db464679d61"
+  },
+  "pergunta4": "escuto o professor falar e faço anotações",
+  "createdAt": {
+    "$date": "2024-06-05T10:59:46.445Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66604843a4b82db464679d63"
+  },
+  "pergunta5": 6,
+  "createdAt": {
+    "$date": "2024-06-05T10:59:46.445Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666048bba4b82db464679d71"
+  },
+  "pergunta4": "Assistindo videos e anotando ",
+  "createdAt": {
+    "$date": "2024-06-05T10:59:46.445Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666048bea4b82db464679d73"
+  },
+  "pergunta5": 6,
+  "createdAt": {
+    "$date": "2024-06-05T10:59:46.445Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6660494ba4b82db464679d81"
+  },
+  "pergunta4": "vendo videos também\n",
+  "createdAt": {
+    "$date": "2024-06-05T10:59:46.445Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6660496aa4b82db464679d83"
+  },
+  "pergunta5": 6,
+  "createdAt": {
+    "$date": "2024-06-05T10:59:46.445Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66604a56a4b82db464679d91"
+  },
+  "pergunta4": "escutando e lendo",
+  "createdAt": {
+    "$date": "2024-06-05T10:59:46.445Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66604a6fa4b82db464679d93"
+  },
+  "pergunta5": 6,
+  "createdAt": {
+    "$date": "2024-06-05T10:59:46.445Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66604b45a4b82db464679da1"
+  },
+  "pergunta4": "assisto vídeos no youtube ou aprendo com meu irmão, humanas pra mim é mais facil que exatas ",
+  "createdAt": {
+    "$date": "2024-06-05T10:59:46.445Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66604b48a4b82db464679da3"
+  },
+  "pergunta5": 6,
+  "createdAt": {
+    "$date": "2024-06-05T10:59:46.445Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66604bc6a4b82db464679db3"
+  },
+  "pergunta4": "mesma coisa",
+  "createdAt": {
+    "$date": "2024-06-05T10:59:46.445Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66604bdea4b82db464679db5"
+  },
+  "pergunta5": 6,
+  "createdAt": {
+    "$date": "2024-06-05T10:59:46.445Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66604c97a4b82db464679dc3"
+  },
+  "pergunta4": "Não, apenas estudo ",
+  "createdAt": {
+    "$date": "2024-06-05T10:59:46.445Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66604c9aa4b82db464679dc5"
+  },
+  "pergunta5": 6,
+  "createdAt": {
+    "$date": "2024-06-05T10:59:46.445Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66604d29a4b82db464679dd3"
+  },
+  "pergunta4": "Não.",
+  "createdAt": {
+    "$date": "2024-06-05T10:59:46.445Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66604d2ba4b82db464679dd5"
+  },
+  "pergunta5": 6,
+  "createdAt": {
+    "$date": "2024-06-05T10:59:46.445Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66604df0a4b82db464679de3"
+  },
+  "pergunta4": "Nenhuma técnica específica, apenas vejo vídeos.",
+  "createdAt": {
+    "$date": "2024-06-05T10:59:46.445Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66604e26a4b82db464679de5"
+  },
+  "pergunta5": 6,
+  "createdAt": {
+    "$date": "2024-06-05T10:59:46.445Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66604f28a4b82db464679df3"
+  },
+  "pergunta4": "Como ja citado, anotar o que eu entendi do conteudo com minhas proprias palavras, pois me faz lembrar das informações mais facil",
+  "createdAt": {
+    "$date": "2024-06-05T10:59:46.445Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66604f2ba4b82db464679df5"
+  },
+  "pergunta5": 6,
+  "createdAt": {
+    "$date": "2024-06-05T10:59:46.445Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66605006a4b82db464679e03"
+  },
+  "pergunta4": "ler os conteudos",
+  "createdAt": {
+    "$date": "2024-06-05T10:59:46.445Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6660501da4b82db464679e05"
+  },
+  "pergunta5": 6,
+  "createdAt": {
+    "$date": "2024-06-05T10:59:46.445Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66605086a4b82db464679e13"
+  },
+  "pergunta4": "não\n",
+  "createdAt": {
+    "$date": "2024-06-05T10:59:46.445Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66605090a4b82db464679e15"
+  },
+  "pergunta5": 6,
+  "createdAt": {
+    "$date": "2024-06-05T10:59:46.445Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66605c5415603c723a91353d"
+  },
+  "pergunta4": "em portugues wu tenho aulas particuláres, em história e geografia eu estudo antes de provas e ciências no geral por ser minha matéria favorita eu intento e aprendo naturalmente",
+  "createdAt": {
+    "$date": "2024-06-05T12:29:10.259Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66605c6e15603c723a91353f"
+  },
+  "pergunta5": 6,
+  "createdAt": {
+    "$date": "2024-06-05T12:29:10.259Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66605cfb15603c723a91354d"
+  },
+  "pergunta4": "Prestar atenção na aula",
+  "createdAt": {
+    "$date": "2024-06-05T12:29:10.259Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66605cff15603c723a91354f"
+  },
+  "pergunta5": 6,
+  "createdAt": {
+    "$date": "2024-06-05T12:29:10.259Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66605db515603c723a91355d"
+  },
+  "pergunta4": "fazer mapas mentais",
+  "createdAt": {
+    "$date": "2024-06-05T12:29:10.259Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66605dc815603c723a91355f"
+  },
+  "pergunta5": 6,
+  "createdAt": {
+    "$date": "2024-06-05T12:29:10.259Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66605e3015603c723a91356d"
+  },
+  "pergunta4": "ler em voz alta o conteudo",
+  "createdAt": {
+    "$date": "2024-06-05T12:29:10.259Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66605e3315603c723a91356f"
+  },
+  "pergunta5": 6,
+  "createdAt": {
+    "$date": "2024-06-05T12:29:10.259Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66605edb15603c723a91357d"
+  },
+  "pergunta4": "Não",
+  "createdAt": {
+    "$date": "2024-06-05T12:29:10.259Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66605edd15603c723a91357f"
+  },
+  "pergunta5": 6,
+  "createdAt": {
+    "$date": "2024-06-05T12:29:10.259Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66605f7315603c723a91358d"
+  },
+  "pergunta4": "Não",
+  "createdAt": {
+    "$date": "2024-06-05T12:29:10.259Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66605f9915603c723a91358f"
+  },
+  "pergunta5": 2,
+  "createdAt": {
+    "$date": "2024-06-05T12:29:10.259Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66605fe915603c723a91359d"
+  },
+  "pergunta4": "não",
+  "createdAt": {
+    "$date": "2024-06-05T12:29:10.259Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66605feb15603c723a91359f"
+  },
+  "pergunta5": 6,
+  "createdAt": {
+    "$date": "2024-06-05T12:29:10.259Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6660602815603c723a9135ad"
+  },
+  "pergunta4": "videos e pesquisa",
+  "createdAt": {
+    "$date": "2024-06-05T12:29:10.259Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6660602b15603c723a9135af"
+  },
+  "pergunta5": 6,
+  "createdAt": {
+    "$date": "2024-06-05T12:29:10.259Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6660607c15603c723a9135bd"
+  },
+  "pergunta4": "não",
+  "createdAt": {
+    "$date": "2024-06-05T12:29:10.259Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6660607d15603c723a9135bf"
+  },
+  "pergunta5": 6,
+  "createdAt": {
+    "$date": "2024-06-05T12:29:10.259Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666060ac15603c723a9135cd"
+  },
+  "pergunta4": "não",
+  "createdAt": {
+    "$date": "2024-06-05T12:29:10.259Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666060ad15603c723a9135cf"
+  },
+  "pergunta5": 6,
+  "createdAt": {
+    "$date": "2024-06-05T12:29:10.259Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6660612b15603c723a9135dd"
+  },
+  "pergunta4": "sim,lendo bastantes artigos e pesquisas e fazendo slides ",
+  "createdAt": {
+    "$date": "2024-06-05T12:29:10.259Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6660615815603c723a9135df"
+  },
+  "pergunta5": 6,
+  "createdAt": {
+    "$date": "2024-06-05T12:29:10.259Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666061d815603c723a9135ed"
+  },
+  "pergunta4": "",
+  "createdAt": {
+    "$date": "2024-06-05T12:29:10.259Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666061db15603c723a9135ef"
+  },
+  "pergunta5": 6,
+  "createdAt": {
+    "$date": "2024-06-05T12:29:10.259Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6660626115603c723a9135ff"
+  },
+  "pergunta4": "Pesquisando",
+  "createdAt": {
+    "$date": "2024-06-05T12:29:10.259Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6660626615603c723a913601"
+  },
+  "pergunta5": 6,
+  "createdAt": {
+    "$date": "2024-06-05T12:29:10.259Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666062fb15603c723a91360f"
+  },
+  "pergunta4": "normalmente lendo livros ",
+  "createdAt": {
+    "$date": "2024-06-05T12:29:10.259Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666062fe15603c723a913611"
+  },
+  "pergunta5": 6,
+  "createdAt": {
+    "$date": "2024-06-05T12:29:10.259Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6660637615603c723a91361f"
+  },
+  "pergunta4": "Não",
+  "createdAt": {
+    "$date": "2024-06-05T12:29:10.259Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6660638815603c723a913621"
+  },
+  "pergunta5": 6,
+  "createdAt": {
+    "$date": "2024-06-05T12:29:10.259Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666063e215603c723a91362f"
+  },
+  "pergunta4": "não",
+  "createdAt": {
+    "$date": "2024-06-05T12:29:10.259Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666063e415603c723a913631"
+  },
+  "pergunta5": 6,
+  "createdAt": {
+    "$date": "2024-06-05T12:29:10.259Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6660645615603c723a91363f"
+  },
+  "pergunta4": "",
+  "createdAt": {
+    "$date": "2024-06-05T12:29:10.259Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6660645b15603c723a913641"
+  },
+  "pergunta5": 6,
+  "createdAt": {
+    "$date": "2024-06-05T12:29:10.259Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6660786e568ff87c873bba84"
+  },
+  "pergunta4": "não",
+  "createdAt": {
+    "$date": "2024-06-05T14:32:49.962Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66607878568ff87c873bba86"
+  },
+  "pergunta5": 6,
+  "createdAt": {
+    "$date": "2024-06-05T14:32:49.962Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66607988568ff87c873bba94"
+  },
+  "pergunta4": "escrever e ler",
+  "createdAt": {
+    "$date": "2024-06-05T14:32:49.962Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6660798d568ff87c873bba96"
+  },
+  "pergunta5": 6,
+  "createdAt": {
+    "$date": "2024-06-05T14:32:49.962Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66607a19568ff87c873bbaa4"
+  },
+  "pergunta4": "nao",
+  "createdAt": {
+    "$date": "2024-06-05T14:32:49.962Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66607a24568ff87c873bbaa6"
+  },
+  "pergunta5": 4,
+  "createdAt": {
+    "$date": "2024-06-05T14:32:49.962Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66607aad568ff87c873bbab6"
+  },
+  "pergunta4": "so presto atenção nas aulas",
+  "createdAt": {
+    "$date": "2024-06-05T14:32:49.962Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66607ad0568ff87c873bbab8"
+  },
+  "pergunta5": 6,
+  "createdAt": {
+    "$date": "2024-06-05T14:32:49.962Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66607b59568ff87c873bbac6"
+  },
+  "pergunta4": "Eu assisto vídeos. ",
+  "createdAt": {
+    "$date": "2024-06-05T14:32:49.962Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66607b66568ff87c873bbac8"
+  },
+  "pergunta5": 6,
+  "createdAt": {
+    "$date": "2024-06-05T14:32:49.962Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66607c40568ff87c873bbad6"
+  },
+  "pergunta4": "sim, eu gosto de ler e ir escrevendo o que eu estou aprendendo, fazendo uns resumos do conteúdo e uns mapas mentais",
+  "createdAt": {
+    "$date": "2024-06-05T14:32:49.962Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66607c52568ff87c873bbad8"
+  },
+  "pergunta5": 6,
+  "createdAt": {
+    "$date": "2024-06-05T14:32:49.962Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66607cfb568ff87c873bbae6"
+  },
+  "pergunta4": "não ",
+  "createdAt": {
+    "$date": "2024-06-05T14:32:49.962Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66607cff568ff87c873bbae8"
+  },
+  "pergunta5": 6,
+  "createdAt": {
+    "$date": "2024-06-05T14:32:49.962Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66607d71568ff87c873bbaf6"
+  },
+  "pergunta4": "ler e escrever",
+  "createdAt": {
+    "$date": "2024-06-05T14:32:49.962Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66607d8b568ff87c873bbaf8"
+  },
+  "pergunta5": 6,
+  "createdAt": {
+    "$date": "2024-06-05T14:32:49.962Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66607e12568ff87c873bbb06"
+  },
+  "pergunta4": "Não.",
+  "createdAt": {
+    "$date": "2024-06-05T14:32:49.962Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66607e48568ff87c873bbb08"
+  },
+  "pergunta5": 4,
+  "createdAt": {
+    "$date": "2024-06-05T14:32:49.962Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66607f2a568ff87c873bbb16"
+  },
+  "pergunta4": "escrevo em papéis pequenos e boto no meu quadro de cortiça.",
+  "createdAt": {
+    "$date": "2024-06-05T14:32:49.962Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66607f2d568ff87c873bbb18"
+  },
+  "pergunta5": 6,
+  "createdAt": {
+    "$date": "2024-06-05T14:32:49.962Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66608010568ff87c873bbb26"
+  },
+  "pergunta4": "sim, eu assisto a aula",
+  "createdAt": {
+    "$date": "2024-06-05T14:32:49.962Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66608020568ff87c873bbb28"
+  },
+  "pergunta5": 6,
+  "createdAt": {
+    "$date": "2024-06-05T14:32:49.962Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666195a670ae41c430587204"
+  },
+  "pergunta4": "Sim, eu assito videos sobre o conteúdo e anoto tudo que passam na aula para depois ler e estudar em casa.",
+  "createdAt": {
+    "$date": "2024-06-06T10:51:42.729Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666195c270ae41c430587206"
+  },
+  "pergunta5": 6,
+  "createdAt": {
+    "$date": "2024-06-06T10:51:42.729Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6661962c70ae41c430587214"
+  },
+  "pergunta4": "Sim, vendo vídeos também",
+  "createdAt": {
+    "$date": "2024-06-06T10:51:42.729Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6661963170ae41c430587216"
+  },
+  "pergunta5": 6,
+  "createdAt": {
+    "$date": "2024-06-06T10:51:42.729Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6661d4fa9d561e27ba4ca12f"
+  },
+  "pergunta4": "Sim, com apresentações e anotando.",
+  "createdAt": {
+    "$date": "2024-06-06T15:20:14.379Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6661d50b9d561e27ba4ca131"
+  },
+  "pergunta5": 6,
+  "createdAt": {
+    "$date": "2024-06-06T15:20:14.379Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6661d61c9d561e27ba4ca13f"
+  },
+  "pergunta4": "Também não.",
+  "createdAt": {
+    "$date": "2024-06-06T15:20:14.379Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6661d62b9d561e27ba4ca141"
+  },
+  "pergunta5": 6,
+  "createdAt": {
+    "$date": "2024-06-06T15:20:14.379Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6661d7049d561e27ba4ca14f"
+  },
+  "pergunta4": "sim, assim como em exatas, faço exercícios online, mas também assisto à aulas no youtube.",
+  "createdAt": {
+    "$date": "2024-06-06T15:20:14.379Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6661d7329d561e27ba4ca151"
+  },
+  "pergunta5": 4,
+  "createdAt": {
+    "$date": "2024-06-06T15:20:14.379Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6661d7ab9d561e27ba4ca15f"
+  },
+  "pergunta4": "Não.",
+  "createdAt": {
+    "$date": "2024-06-06T15:20:14.379Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6661d7be9d561e27ba4ca161"
+  },
+  "pergunta5": 8,
+  "createdAt": {
+    "$date": "2024-06-06T15:20:14.379Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6661d87d9d561e27ba4ca16f"
+  },
+  "pergunta4": "revisão das anotações no caderno e uso de mapas mentais",
+  "createdAt": {
+    "$date": "2024-06-06T15:20:14.379Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6661d88d9d561e27ba4ca171"
+  },
+  "pergunta5": 6,
+  "createdAt": {
+    "$date": "2024-06-06T15:20:14.379Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6661d9079d561e27ba4ca17f"
+  },
+  "pergunta4": "eu presto atenção na aula e pesquiso mais um pouco em casa sobre",
+  "createdAt": {
+    "$date": "2024-06-06T15:20:14.379Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6661d90d9d561e27ba4ca181"
+  },
+  "pergunta5": 6,
+  "createdAt": {
+    "$date": "2024-06-06T15:20:14.379Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6661d9dc9d561e27ba4ca18f"
+  },
+  "pergunta4": "Utilizo dos meus resumos na aula e faço mapas mentais como também flashcards para aprender o conteúdo ",
+  "createdAt": {
+    "$date": "2024-06-06T15:20:14.379Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6661da099d561e27ba4ca191"
+  },
+  "pergunta5": 6,
+  "createdAt": {
+    "$date": "2024-06-06T15:20:14.379Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6661da9c9d561e27ba4ca19f"
+  },
+  "pergunta4": "Sim. Lendo livros, vendo documentários e etc.",
+  "createdAt": {
+    "$date": "2024-06-06T15:20:14.379Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6661da9f9d561e27ba4ca1a1"
+  },
+  "pergunta5": 6,
+  "createdAt": {
+    "$date": "2024-06-06T15:20:14.379Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6661db429d561e27ba4ca1af"
+  },
+  "pergunta4": "sim, video aulas, resumos e mapas mentais, continuo sem aprender",
+  "createdAt": {
+    "$date": "2024-06-06T15:20:14.379Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6661db539d561e27ba4ca1b1"
+  },
+  "pergunta5": 6,
+  "createdAt": {
+    "$date": "2024-06-06T15:20:14.379Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6662121b0586f927f080cf2f"
+  },
+  "pergunta4": "leio e releio varias vezes o conteúdo.",
+  "createdAt": {
+    "$date": "2024-06-06T19:43:53.866Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6662122c0586f927f080cf31"
+  },
+  "pergunta5": 6,
+  "createdAt": {
+    "$date": "2024-06-06T19:43:53.866Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666212860586f927f080cf3f"
+  },
+  "pergunta4": "sim, vendo muitas video aulas",
+  "createdAt": {
+    "$date": "2024-06-06T19:43:53.866Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666212d80586f927f080cf41"
+  },
+  "pergunta5": 6,
+  "createdAt": {
+    "$date": "2024-06-06T19:43:53.866Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666213d50586f927f080cf4f"
+  },
+  "pergunta4": "não",
+  "createdAt": {
+    "$date": "2024-06-06T19:43:53.866Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666213da0586f927f080cf51"
+  },
+  "pergunta5": 6,
+  "createdAt": {
+    "$date": "2024-06-06T19:43:53.866Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666214900586f927f080cf5f"
+  },
+  "pergunta4": "eu normalmente leio e faço resumos .",
+  "createdAt": {
+    "$date": "2024-06-06T19:43:53.866Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666214940586f927f080cf61"
+  },
+  "pergunta5": 6,
+  "createdAt": {
+    "$date": "2024-06-06T19:43:53.866Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666215440586f927f080cf6f"
+  },
+  "pergunta4": "lendo sobre e fazendo exercícios",
+  "createdAt": {
+    "$date": "2024-06-06T19:43:53.866Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666215480586f927f080cf71"
+  },
+  "pergunta5": 6,
+  "createdAt": {
+    "$date": "2024-06-06T19:43:53.866Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666216bc0586f927f080cf7f"
+  },
+  "pergunta4": "reviso cadernos e faço questões ",
+  "createdAt": {
+    "$date": "2024-06-06T19:43:53.866Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666216c20586f927f080cf81"
+  },
+  "pergunta5": 6,
+  "createdAt": {
+    "$date": "2024-06-06T19:43:53.866Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666217400586f927f080cf8f"
+  },
+  "pergunta4": "aprendo na aula, minha familia me ajuda, meus amigos e a internet",
+  "createdAt": {
+    "$date": "2024-06-06T19:43:53.866Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666217430586f927f080cf91"
+  },
+  "pergunta5": 6,
+  "createdAt": {
+    "$date": "2024-06-06T19:43:53.866Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666217430586f927f080cf93"
+  },
+  "pergunta5": 6,
+  "createdAt": {
+    "$date": "2024-06-06T19:43:53.866Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666217430586f927f080cf95"
+  },
+  "pergunta5": 6,
+  "createdAt": {
+    "$date": "2024-06-06T19:43:53.866Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666218050586f927f080cfa5"
+  },
+  "pergunta4": "vejo vídeos na internet ",
+  "createdAt": {
+    "$date": "2024-06-06T19:43:53.866Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6662180b0586f927f080cfa7"
+  },
+  "pergunta5": 6,
+  "createdAt": {
+    "$date": "2024-06-06T19:43:53.866Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666218ca0586f927f080cfb7"
+  },
+  "pergunta4": "sim, bastante pesquisa e exercícios.",
+  "createdAt": {
+    "$date": "2024-06-06T19:43:53.866Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6662190e0586f927f080cfb9"
+  },
+  "pergunta5": 6,
+  "createdAt": {
+    "$date": "2024-06-06T19:43:53.866Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66621a200586f927f080cfc7"
+  },
+  "pergunta4": "Muitas vezes não utilizo, pois gosto de humanas e presto atenção. Quando eu preciso de uma ajuda extra, pesquiso mais os conteúdos ou pergunto à algum adulto.",
+  "createdAt": {
+    "$date": "2024-06-06T19:43:53.866Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66621a2b0586f927f080cfc9"
+  },
+  "pergunta5": 6,
+  "createdAt": {
+    "$date": "2024-06-06T19:43:53.866Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66621b270586f927f080cfd7"
+  },
+  "pergunta4": "Eu faço principalmente mapas mentais e fico falando os conteúdos em voz alta como se estivesse explicando para alguém.",
+  "createdAt": {
+    "$date": "2024-06-06T19:43:53.866Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66621b510586f927f080cfd9"
+  },
+  "pergunta5": 6,
+  "createdAt": {
+    "$date": "2024-06-06T19:43:53.866Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66621c990586f927f080cfe7"
+  },
+  "pergunta4": "Não.",
+  "createdAt": {
+    "$date": "2024-06-06T19:43:53.866Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66621ca30586f927f080cfe9"
+  },
+  "pergunta5": 6,
+  "createdAt": {
+    "$date": "2024-06-06T19:43:53.866Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66621db50586f927f080cff7"
+  },
+  "pergunta4": "Eu normalmente reviso os conteúdos passados em sala de aula, e busca fazer exercícios para lembrar melhor depois.",
+  "createdAt": {
+    "$date": "2024-06-06T19:43:53.866Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66621dd00586f927f080cff9"
+  },
+  "pergunta5": 6,
+  "createdAt": {
+    "$date": "2024-06-06T19:43:53.866Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66621e7b0586f927f080d007"
+  },
+  "pergunta4": "Sim, escutando podcasts e aulas, além de ser minha árrea de maior interesse",
+  "createdAt": {
+    "$date": "2024-06-06T19:43:53.866Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66621e7d0586f927f080d009"
+  },
+  "pergunta5": 6,
+  "createdAt": {
+    "$date": "2024-06-06T19:43:53.866Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66621f350586f927f080d017"
+  },
+  "pergunta4": "videoaulas e resumos",
+  "createdAt": {
+    "$date": "2024-06-06T19:43:53.866Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66621f380586f927f080d019"
+  },
+  "pergunta5": 6,
+  "createdAt": {
+    "$date": "2024-06-06T19:43:53.866Z"
+  },
+  "__v": 0
+}]
